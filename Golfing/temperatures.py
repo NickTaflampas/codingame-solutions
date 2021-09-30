@@ -1,1 +1,0 @@
-u=input;u();t=[int(i) for i in u().split()or'0'];print(min(t,key=lambda x:(abs(x),-x)))
